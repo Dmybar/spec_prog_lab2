@@ -1,1 +1,1 @@
-# spec_prog_lab2
+# spec_prog_lab1
